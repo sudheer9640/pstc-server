@@ -1,0 +1,43 @@
+{
+    "set": 1,
+    "subject": "Aptitude",
+    "topic": "Miscellaneous",
+    "questions": [
+        {
+            "sNo": 1,
+            "question": "my question?",
+            "questionType": "MCQ",
+            "options": [
+                {
+                    "option": "opiton1",
+                    "isAnswer": true
+                },
+                {
+                    "option": "option2",
+                    "isAnswer": false
+                }
+            ],
+            "level":1,
+            "timerCount": 60,
+            "evaluation": true
+        },
+        {
+            "sNo": 2,
+            "question": "second question?",
+            "questionType": "MCQ",
+            "options": [
+                {
+                    "option": "opiton1",
+                    "isAnswer": true
+                },
+                {
+                    "option": "option2",
+                    "isAnswer": false
+                }
+            ],
+            "level":2,
+            "timerCount": 120,
+            "evaluation": true
+        }
+    ]
+}

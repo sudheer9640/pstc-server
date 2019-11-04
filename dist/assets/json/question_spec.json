@@ -1,0 +1,38 @@
+{
+    "set": 1,
+    "subject": "math",
+    "level": 1,
+    "topic": "",
+    "questions": [
+        {
+            "sNo":1,
+            "question": "my question?",
+            "questionType": "MCQ",
+            "options": [
+                {
+                    "option": "opiton1",
+                    "isAnswer": true
+                },
+                {
+                    "option": "option2",
+                  "isAnswer": false
+                }
+            ]
+        },
+        {
+            "sNo":2,
+            "question": "second question?",
+            "questionType": "MCQ",
+            "options": [
+                {
+                    "option": "opiton1",
+                    "isAnswer":true
+                },
+                {
+                    "option": "option2",
+                    "isAnswer": false
+                }
+            ]
+        }
+    ]
+}
