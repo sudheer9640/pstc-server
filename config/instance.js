@@ -30,7 +30,3 @@ switch (instanceName) {
         break;
 }
 
-
-// sudheer9640
-// Pass@123
-//mongodb+srv://ksudheer:Pass@123@cluster0-vrkh8.mongodb.net/QData?retryWrites=true&w=majority
